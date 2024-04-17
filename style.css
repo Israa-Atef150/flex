@@ -1,0 +1,18 @@
+/*
+flex:[flex grow] [flex shrink] [flex basis] 0 1 auto
+
+*/
+* {
+    box-sizing: border-box;
+
+}
+
+.flex {
+    background-color: #b44f4f;
+    color: #fff;
+    width: 80px;
+    text-align: center;
+    padding: 20px;
+    margin-right: 5px;
+    flex: 200px;
+}
